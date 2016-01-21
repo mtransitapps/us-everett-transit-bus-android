@@ -2,7 +2,7 @@ Title: Everett Transit Bus - MonTran…
 ----------
 Short description:
 Everett Transit Bus for MonTransit.
-Schedule. News.
+Schedule…
 ----------
 What's new in this version?:
 Schedule from November 15, 2015 to February 20, 2016.
