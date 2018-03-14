@@ -116,7 +116,7 @@
 1552,'1552','Broadway & 36th St - Nb',47.970451,-122.201111
 1553,'1553','Broadway & 36th St - Sb',47.970406,-122.201363
 1741,'1741','94th St Sw & Airport Rd - Wb',47.913391,-122.27282
-1748,'1748','Boeing Gt E-67',47.914253,-122.276619
+1748,'1748','Boeing Gt E-67',47.914537,-122.27682
 2000,'2000','E Marine Vw Dr & Belmonte Ln - Sb',48.009403,-122.189331
 2001,'2001','E Marine Vw Dr & Belmonte Ln - Nb',48.009525,-122.189209
 2005,'2005','E Marine Vw Dr & Butler St - Nb',48.007408,-122.188812
@@ -182,7 +182,7 @@
 2324,'2324','33rd St & Mcdougall Ave - Eb',47.973988,-122.200195
 2325,'2325','Pacific Ave & Fulton St - Wb',47.976845,-122.194786
 2327,'2327','Boeing Gt E-72',47.925564,-122.280731
-2328,'2328','Boeing Gt E-84',47.932602,-122.277664
+2328,'2328','Boeing Gt E-84',47.932372,-122.277871
 2330,'2330','Boeing Gt E-88',47.931343,-122.266037
 2331,'2331','Pacific Ave & Cedar St - Wb',47.976833,-122.193153
 2335,'2335','Pacific Ave & Cedar St - Eb',47.976696,-122.193466
@@ -289,7 +289,7 @@
 3410,'3410','Merrill Crk Pkwy & Glenwood Ave - Eb',47.943913,-122.244034
 3415,'3415','Merrill Crk Pkwy & Glenwood Ave - Wb',47.944183,-122.243668
 3420,'3420','Merrill Crk Pkwy & 13th Ave W - Eb',47.943493,-122.250542
-3425,'3425','Merrill Crk Pkwy & 13th Ave W - Wb',47.943523,-122.251816
+3425,'3425','Merrill Crk Pkwy & 13th Ave W - Wb',47.943727,-122.251816
 3430,'3430','Merrill Crk Pkwy & Hardeson Rd - Eb',47.942772,-122.255516
 3440,'3440','Hardeson Rd & Merrill Crk Pkwy - Sb',47.942211,-122.255882
 3442,'3442','Merrill Crk Pkwy & Hardeson Rd - Wb',47.942623,-122.25663
@@ -493,7 +493,7 @@
 5265,'5265','Airport Rd & 112th St Sw - Sb',47.896099,-122.263481
 5281,'5281','112th St Se & 4th Ave W - Wb',47.896572,-122.239685
 5283,'5283','112th St Sw & 8th Ave W - Wb',47.896545,-122.24511
-5288,'5288','Airport Rd & Evergreen Way - Nb',47.890163,-122.258759
+5288,'5288','Airport Rd & Evergreen Way - Nb',47.891156,-122.259499
 5300,'5300','Evergreen Ctr & 112th St Sw - Nb',47.894665,-122.256813
 5310,'5310','Evergreen Way & 116th - Sb',47.89278,-122.255669
 6000,'6000','7th Ave Se & 84th St Se - Sb',47.921455,-122.223
