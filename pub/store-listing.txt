@@ -5,7 +5,7 @@ Everett Transit Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from December 9, 2018 to June 11, 2019.
+Schedule from December 9, 2018 to September 14, 2019.
 ----------
 Full description:
 This app adds Everett Transit buses information to MonTransit.
