@@ -1,7 +1,5 @@
-167,'167','128th St Sw & 8th Ave W - Eb',47.881817,-122.24366
-168,'168','Airport Rd & E Gibson Rd - Eb',47.881786,-122.249702
 426,'426','Hewitt Ave & Oakes Ave - Eb',47.979164,-122.203865
-827,'827','Broadway & 13th St - Nb',48.000526,-122.200912
+827,'827','Broadway & 14th St - Nb',47.999191,-122.200882
 877,'877','Evergreen Way & 79th Pl Se - Nb',47.926216,-122.223877
 963,'963','Sr 525 & 80th St Sw - Nb',47.926064,-122.300179
 964,'964','Sr 525 & 84th St Sw - Nb',47.922871,-122.300064
@@ -17,59 +15,29 @@
 1054,'1054','College Sta - Bay D - Nb',48.005325,-122.200485
 1056,'1056','College Sta - Bay F - Nb',48.005764,-122.200546
 1060,'1060','N Broadway & 10th St - Sb',48.00386,-122.200111
-1075,'1075','Alverson Blvd & 2nd St - Nb',48.01535,-122.204872
-1076,'1076','Alverson Blvd & 2nd St - Sb',48.01556,-122.204987
-1080,'1080','Alverson Blvd & 4th St - Nb',48.012398,-122.205826
-1082,'1082','Wetmore Ave & Alverson Blvd - Sb',48.01165,-122.206467
-1084,'1084','Wetmore Ave & 6th St - Sb',48.009262,-122.206535
-1085,'1085','Wetmore Ave & 6th St - Nb',48.010075,-122.206383
-1090,'1090','Wetmore Ave & 8th St - Nb',48.006977,-122.206467
-1092,'1092','Wetmore Ave & 8th St - Sb',48.006676,-122.206612
-1093,'1093','Colby Ave & 10th St - Nb',48.004486,-122.207878
-1113,'1113','Colby Ave & 10th St - Sb',48.00407,-122.208115
 1120,'1120','13th St & W Marine Vw Dr - Wb',48.000328,-122.214844
 1123,'1123','W Marine Vw Dr & 14th St - Sb',47.999268,-122.214005
 1125,'1125','W Marine Vw Dr & 16th St - Sb',47.996693,-122.213898
-1140,'1140','Colby Ave & 13th St - Nb',48.000523,-122.207977
-1145,'1145','Colby Ave & 13th St - Sb',48.000465,-122.208229
-1150,'1150','Colby Ave & 15th St - Sb',47.997917,-122.20829
-1155,'1155','Colby Ave & 15th St - Nb',47.997921,-122.208031
-1160,'1160','Colby Ave & 17th St - Nb',47.995319,-122.208107
-1165,'1165','Colby Ave & 17th St - Sb',47.994862,-122.208397
 1170,'1170','Broadway & 12th St - Sb',48.001865,-122.201149
 1180,'1180','Broadway & 16th St - Sb',47.996082,-122.201294
 1185,'1185','Broadway & 18th St - Sb',47.993454,-122.201363
 1190,'1190','Broadway & 19th St - Sb',47.992111,-122.201386
 1195,'1195','Broadway & 21st St - Sb',47.989567,-122.201469
-1200,'1200','Colby Ave & 19th St - Nb',47.992729,-122.20816
-1205,'1205','Colby Ave & 19th St - Sb',47.992237,-122.208435
-1210,'1210','Colby Ave & 21st St - Nb',47.990063,-122.208252
-1215,'1215','Colby Ave & 21st St - Sb',47.989655,-122.208496
 1225,'1225','W Marine Vw Dr & 18th St - Nb',47.993381,-122.213692
 1230,'1230','W Marine Vw Dr & 19th St - Sb',47.99184,-122.213989
 1235,'1235','Broadway & 23rd St - Sb',47.986774,-122.20153
-1240,'1240','Colby Ave & 23rd St - Nb',47.987419,-122.208313
-1245,'1245','Colby Ave & 23rd St - Sb',47.986946,-122.208565
-1250,'1250','Colby Ave & 24th St - Nb',47.985405,-122.208412
-1255,'1255','Colby Ave & 25th St - Sb',47.984959,-122.208603
 1260,'1260','W Marine Vw Dr & 26th St - Nb',47.983116,-122.214149
 1263,'1263','W Marine Vw Dr & California St - Sb',47.980518,-122.214447
 1265,'1265','W Marine Vw Dr & 26th St - Sb',47.983421,-122.214363
 1268,'1268','W Marine Vw Dr & California St - Nb',47.981014,-122.214203
-1270,'1270','Colby Ave & 26th St - Nb',47.983418,-122.208481
-1275,'1275','Colby Ave & 26th St - Sb',47.982616,-122.208611
 1290,'1290','Wetmore Ave & Everett Ave - Sb',47.981304,-122.207245
 1295,'1295','Wetmore Ave & Everett Ave - Nb',47.9813,-122.207146
-1299,'1299','Airport Rd & Admiralty Way - Eb',47.883923,-122.253929
-1301,'1301','Airport Rd & Evergreen Way - Eb',47.888687,-122.257973
 1305,'1305','Everett Ave & Oakes Ave - Eb',47.981819,-122.203979
 1310,'1310','Everett Ave & Lombard Ave - Wb',47.981979,-122.202644
 1315,'1315','Broadway & 25th St - Sb',47.984127,-122.201599
 1318,'1318','Broadway & 14th St - Sb',47.998665,-122.201241
 1328,'1328','N Broadway & Tower St - Sb',48.006229,-122.19706
 1355,'1355','Hewitt Ave & Rockefeller Ave - Wb',47.979332,-122.205528
-1357,'1357','Hewitt Ave & Grand Ave - Eb',47.979282,-122.212646
-1358,'1358','Hewitt Ave & Grand Ave - Wb',47.979416,-122.213257
 1360,'1360','Wetmore Ave & Hewitt Ave - Nb',47.978912,-122.207161
 1365,'1365','Hewitt Ave & Wetmore - Eb',47.979179,-122.206642
 1367,'1367','Evergreen Way & 79th Pl Se - Sb',47.925571,-122.224854
@@ -82,6 +50,7 @@
 1385,'1385','Hewitt Ave & Hoyt Ave - Eb',47.979237,-122.210258
 1388,'1388','Wall St & Colby Ave - Eb',47.977848,-122.20919
 1390,'1390','Pacific Ave & Nassau St - Wb',47.97649,-122.216141
+1395,'1395','Pacific Ave & Nassau St - Eb',47.97641,-122.216103
 1410,'1410','Rucker Ave & Pacific Ave - Sb',47.976086,-122.21151
 1425,'1425','Colby Ave & Pacific Ave - Sb',47.976284,-122.208664
 1450,'1450','Lombard Ave & Pacific Ave - Nb',47.977207,-122.202904
@@ -115,8 +84,6 @@
 1545,'1545','41st St & Rucker Ave - Wb',47.963329,-122.211319
 1552,'1552','Broadway & 36th St - Nb',47.970451,-122.201111
 1553,'1553','Broadway & 36th St - Sb',47.970406,-122.201363
-1741,'1741','94th St Sw & Airport Rd - Wb',47.913391,-122.27282
-1748,'1748','Boeing Gt E-67',47.914253,-122.276619
 2000,'2000','E Marine Vw Dr & Belmonte Ln - Sb',48.009403,-122.189331
 2001,'2001','E Marine Vw Dr & Belmonte Ln - Nb',48.009525,-122.189209
 2005,'2005','E Marine Vw Dr & Butler St - Nb',48.007408,-122.188812
@@ -134,7 +101,7 @@
 2065,'2065','Poplar St & 12th St - Sb',48.001141,-122.194603
 2070,'2070','E Marine Vw Dr & 12th St - Sb',48.001354,-122.189133
 2075,'2075','E Marine Vw Dr & 13th St - Nb',48.000057,-122.189034
-2085,'2085','Broadway & 15th St - Nb',47.997894,-122.200981
+2085,'2085','Broadway & 16th St - Nb',47.996479,-122.20108
 2090,'2090','Poplar St & 14th St - Nb',47.998341,-122.194862
 2095,'2095','15th St & Baker Ave - Wb',47.997662,-122.194756
 2100,'2100','15th St & Fulton St - Eb',47.997574,-122.194794
@@ -182,8 +149,6 @@
 2324,'2324','33rd St & Mcdougall Ave - Eb',47.973988,-122.200195
 2325,'2325','Pacific Ave & Fulton St - Wb',47.976845,-122.194786
 2327,'2327','Boeing Gt E-72',47.925564,-122.280731
-2328,'2328','Boeing Gt E-84',47.932602,-122.277664
-2330,'2330','Boeing Gt E-88',47.931343,-122.266037
 2331,'2331','Pacific Ave & Cedar St - Wb',47.976833,-122.193153
 2335,'2335','Pacific Ave & Cedar St - Eb',47.976696,-122.193466
 2340,'2340','Everett Sta - F1 - Sb',47.974426,-122.197998
@@ -201,16 +166,14 @@
 2440,'2440','Hewitt Ave & Lombard Ave - Wb',47.979313,-122.202759
 2441,'2441','Everett Sta - D4',47.974228,-122.197594
 2445,'2445','Everett Sta - E1',47.97464,-122.197952
+2450,'2450','Everett Sta- I1',47.973289,-122.197113
 2466,'2466','Wetmore Ave & Wall St - Nb',47.977322,-122.207115
 2484,'2484','Airport Rd & W Casino Rd - Sb',47.920246,-122.271919
-2502,'2502','Eastmont Pk & Ride Bay 3 - Wb',47.915356,-122.205177
 2668,'2668','Airport Rd & 94th St Sw - Sb',47.913704,-122.271858
 2886,'2886','Broadway & Wall St - Sb',47.977619,-122.201675
 2887,'2887','Broadway & Pacific Ave - Nb',47.97715,-122.201393
-2905,'2905','Perimeter Rd & Seaway Blvd - Eb',47.932545,-122.261063
 2906,'2906','Cedar St & Hewitt Ave - Sb',47.978661,-122.193924
 2913,'2913','Airport Rd & Kasch Pk Rd - Sb',47.917839,-122.271828
-2977,'2977','Boeing Gt E-68',47.916653,-122.2761
 3000,'3000','Colby Ave & 41st St - Sb',47.96283,-122.208038
 3006,'3006','Cedar St & Hewitt - Nb',47.978508,-122.193848
 3010,'3010','Rucker Ave & 41st St - Sb',47.962395,-122.210938
@@ -243,6 +206,8 @@
 3170,'3170','W Mukilteo Blvd & Ocean Ave - Eb',47.953461,-122.275299
 3175,'3175','W Mukilteo Blvd & 33rd Ave W - Wb',47.953148,-122.277458
 3180,'3180','W Mukilteo Blvd & 33rd Ave W - Eb',47.953037,-122.27755
+3181,'3181','Seaway Transit Ctr - Bay 5 - Eb',47.929859,-122.259979
+3182,'3182','Seaway Transit Ctr - Bay 4 - Eb',47.929916,-122.259476
 3185,'3185','W Mukilteo Blvd & Sound Ave - Eb',47.952595,-122.28009
 3190,'3190','W Mukilteo Blvd & Sound Ave - Wb',47.952549,-122.2808
 3195,'3195','W Mukilteo Blvd & Upland Ave - Eb',47.952129,-122.282753
@@ -279,19 +244,11 @@
 3365,'3365','Beverly Ln & Sunset Ln - Sb',47.947979,-122.228973
 3370,'3370','Beverly Ln & 58th St Se - Nb',47.945568,-122.228546
 3375,'3375','Beverly Ln & Highland Rd - Sb',47.945103,-122.228661
-3380,'3380','Brookridge Blvd & 1st Ave Se - Wb',47.94511,-122.233078
-3383,'3383','Brookridge Blvd & 59th Pl Se - Eb',47.944462,-122.231522
-3385,'3385','Brookridge Blvd & 60th Pl Se - Eb',47.944592,-122.235428
-3390,'3390','Brookridge Blvd & 1st Dr W - Wb',47.944592,-122.235641
-3395,'3395','Brookridge Blvd & 3rd Dr W - Eb',47.944069,-122.237823
-3400,'3400','Brookridge Blvd & 4th Dr W - Wb',47.944523,-122.239235
-3405,'3405','Brookridge Blvd & Seahurst Ave - Eb',47.944443,-122.240379
 3410,'3410','Merrill Crk Pkwy & Glenwood Ave - Eb',47.943913,-122.244034
 3415,'3415','Merrill Crk Pkwy & Glenwood Ave - Wb',47.944183,-122.243668
 3420,'3420','Merrill Crk Pkwy & 13th Ave W - Eb',47.943493,-122.250542
 3425,'3425','Merrill Crk Pkwy & 13th Ave W - Wb',47.943523,-122.251816
 3430,'3430','Merrill Crk Pkwy & Hardeson Rd - Eb',47.942772,-122.255516
-3440,'3440','Hardeson Rd & Merrill Crk Pkwy - Sb',47.942211,-122.255882
 3442,'3442','Merrill Crk Pkwy & Hardeson Rd - Wb',47.942623,-122.25663
 3443,'3443','Merrill Crk Pkwy & 20th Ave W - Wb',47.941414,-122.259666
 3445,'3445','Merrill Crk Pkwy & 20th Ave W - Eb',47.941086,-122.26059
@@ -302,32 +259,16 @@
 3457,'3457','Merrill Crk Pkwy & Seaway Blvd - Sb',47.938816,-122.267845
 3473,'3473','75th St Sw & Seaway Blvd - Eb',47.930801,-122.26001
 3475,'3475','Merrill Crk Pkwy & Seaway Blvd - Nb',47.937729,-122.267685
-3479,'3479','Hardeson Rd & Shuksan Way - Nb',47.935925,-122.251671
 3480,'3480','Seaway Blvd & 24th Ave W - Wb',47.937157,-122.265282
 3483,'3483','Seaway Blvd & Merrill Crk Pkwy - Sb',47.93697,-122.264427
 3484,'3484','Hardeson Rd & Veralene Way - Nb',47.929424,-122.24678
 3485,'3485','Seaway Blvd & Fluke Dr - Nb',47.935009,-122.261711
 3486,'3486','Seaway Blvd & Fluke Dr - Sb',47.934326,-122.261436
-3490,'3490','Brookridge Blvd & 1st Pl Se - Wb',47.942631,-122.230827
-3495,'3495','Brookridge Blvd & 1st Dr Se - Eb',47.941925,-122.229568
 3500,'3500','Beverly Ln & Pecks - Sb',47.94109,-122.228622
 3505,'3505','Beverly Ln & Pecks - Nb',47.941196,-122.2285
-3536,'3536','Madison St & Cady Rd - Wb',47.936401,-122.222633
-3537,'3537','Madison St & Morgan Rd - Eb',47.936317,-122.224342
-3538,'3538','Madison St & Beverly Ln - Wb',47.936474,-122.225853
 3545,'3545','Beverly Ln & E Beech St - Sb',47.938454,-122.228508
 3548,'3548','Beverly Ln & Tamarack Dr - Nb',47.938156,-122.228371
 3550,'3550','Beverly Ln & Madison St - Sb',47.936962,-122.228485
-3555,'3555','Beverly Ln & Madison - Nb',47.935951,-122.228325
-3565,'3565','Beverly Ln & S Cabot Rd - Sb',47.934513,-122.228447
-3567,'3567','Beverly Ln & 72nd St Se - Sb',47.932751,-122.228439
-3570,'3570','Beverly Ln & 72nd St Se - Nb',47.93251,-122.228294
-3575,'3575','Beverly Ln & 75th St Se - Nb',47.930351,-122.228271
-3580,'3580','Beverly Ln & 75th St Se - Sb',47.929867,-122.228409
-3585,'3585','Beverly Ln & 77th St Se - Sb',47.927353,-122.228378
-3590,'3590','Beverly Ln & 78th St Se - Nb',47.927101,-122.228256
-3595,'3595','79th Pl Se & Beverly Ln - Eb',47.925934,-122.22702
-3600,'3600','79th Pl Se & Evergreen Way - Wb',47.926029,-122.226898
 3605,'3605','Evergreen Way & Bruin Blvd - Nb',47.928135,-122.222076
 3610,'3610','Evergreen Way & Bruin Blvd - Sb',47.927605,-122.222954
 3615,'3615','Evergreen Way & 75th St Se - Sb',47.929874,-122.221085
@@ -343,15 +284,6 @@
 3645,'3645','Evergreen Way & 57th St Se - Sb',47.945747,-122.216324
 3647,'3647','Evergreen Way & Hwy Pl - Nb',47.947468,-122.215187
 3650,'3650','Evergreen Way & 52nd St Se - Sb',47.949139,-122.21479
-3660,'3660','Hardeson Rd & 64th St Sw - Sb',47.939804,-122.254387
-3663,'3663','Hardeson Rd & Merrill Crk Pkwy - Nb',47.941799,-122.25547
-3664,'3664','Hardeson Rd & 65th St Sw - Nb',47.938992,-122.253693
-3665,'3665','Hardeson Rd & 70th St Sw - Sb',47.936867,-122.252457
-3667,'3667','Hardeson Rd & Shuksan Way- Nb',47.934662,-122.250839
-3668,'3668','Hardeson Rd & Shuksan Way - Sb',47.934769,-122.251083
-3670,'3670','Hardeson Rd & 72nd St Sw - Sb',47.93375,-122.250427
-3673,'3673','Hardeson Rd & 75th St Sw - Nb',47.931515,-122.249123
-3675,'3675','Hardeson Rd & 75th St Sw - Sb',47.929981,-122.247902
 3676,'3676','75th St Sw & 16th Ave W - Wb',47.929714,-122.255386
 3677,'3677','75th St Sw & 16th Ave W - Eb',47.929573,-122.25489
 3680,'3680','75th St Sw & Seaway Blvd - Wb',47.930992,-122.260078
@@ -361,8 +293,6 @@
 3720,'3720','Hardeson Rd & Upper Rdg Rd - Nb',47.924438,-122.240356
 4000,'4000','S 3rd Ave & 42nd St - Sb',47.962578,-122.197662
 4005,'4005','S 3rd Ave & 42nd St - Nb',47.96291,-122.197403
-4007,'4007','Broadway & 45th St Se - Nb',47.956657,-122.200508
-4008,'4008','Broadway & 45th St Se - Sb',47.956734,-122.200623
 4010,'4010','S 3rd Ave & 43rd St - Sb',47.960789,-122.197449
 4015,'4015','S 3rd Ave & 44th St - Nb',47.959919,-122.197212
 4020,'4020','S 3rd Ave & 45th St - Sb',47.957794,-122.197067
@@ -384,30 +314,14 @@
 4110,'4110','Beverly Blvd & Palm Ave - Nb',47.938122,-122.209099
 4115,'4115','Beverly Blvd & Palm Ave - Sb',47.93782,-122.209534
 4120,'4120','Beverly Blvd & Madison - Nb',47.936768,-122.210182
-4125,'4125','Madison St & Beverly Blvd - Eb',47.936214,-122.210075
 4130,'4130','Beverly Blvd & Madison - Sb',47.935989,-122.21106
-4135,'4135','Madison St & Beverly Blvd - Wb',47.936337,-122.209892
-4140,'4140','Madison St & Highland Dr - Wb',47.936295,-122.213493
 4143,'4143','Beverly Blvd & 72nd St Se - Nb',47.932911,-122.212456
-4145,'4145','Madison St & Olympic Dr - Eb',47.936176,-122.214363
-4148,'4148','Madison St & Berkshire Dr - Wb',47.936268,-122.21743
-4150,'4150','Madison St & Rainier Dr - Eb',47.936111,-122.217949
-4151,'4151','Ridgewood Dr & Timber Hl Dr - Sb',47.927994,-122.198441
-4154,'4154','Larlin Dr & Panaview Blvd - Nb',47.927521,-122.193184
 4155,'4155','Beverly Blvd & 72nd St Se - Sb',47.933014,-122.212624
-4156,'4156','Sunrise Dr & Panaview Blvd - Nb',47.92823,-122.194763
-4157,'4157','Panaview Blvd & Larlin Dr - Sb',47.926163,-122.197319
-4158,'4158','75th St Se & Mcdougall Ave - Wb',47.930107,-122.1996
-4159,'4159','75th St Se & Mcdougall Ave - Eb',47.93005,-122.199753
-4160,'4160','Madison St & Commercial Ave - Eb',47.936211,-122.205971
 4161,'4161','Broadway & 74th St Se - Sb',47.930912,-122.202408
 4162,'4162','Broadway & 75th St Se - Nb',47.930458,-122.202538
 4164,'4164','Broadway & 73rd St Se - Nb',47.932434,-122.201485
-4165,'4165','Madison St & Commercial Ave - Wb',47.936317,-122.205376
 4168,'4168','Broadway & Adams Ave - Nb',47.934517,-122.20034
 4169,'4169','Broadway & Monroe Ave - Sb',47.933384,-122.201042
-4170,'4170','Madison St & Jefferson Ave - Eb',47.936199,-122.2033
-4175,'4175','Madison St & Jefferson Ave - Wb',47.936321,-122.20372
 4177,'4177','Broadway & Madison St - Sb',47.935688,-122.199821
 4180,'4180','Broadway & Melvin Ave - Sb',47.939022,-122.199524
 4185,'4185','Broadway & Howard Ave - Nb',47.937775,-122.199249
@@ -416,7 +330,7 @@
 4200,'4200','Broadway & 60th St Se - Sb',47.942986,-122.199745
 4205,'4205','Broadway & 60th St Se - Nb',47.943699,-122.199669
 4210,'4210','Broadway & 56th St Se - Sb',47.945286,-122.199883
-4215,'4215','Broadway & 56th St Se - Sb',47.945938,-122.199821
+4215,'4215','Broadway & 56th St Se - Nb',47.945938,-122.199821
 4220,'4220','Broadway & 53rd St Se - Sb',47.948467,-122.200081
 4223,'4223','Broadway & 52nd St Se - Nb',47.949055,-122.200012
 4230,'4230','Beverly Blvd & 75th St Se - Sb',47.929821,-122.212059
@@ -477,12 +391,9 @@
 5195,'5195','Evergreen Way & Olivia Pk Rd - Sb',47.903507,-122.245445
 5200,'5200','Evergreen Way & 108th St Sw - Sb',47.900677,-122.248108
 5205,'5205','Evergreen Way & 110th St Se - Sb',47.898159,-122.250504
-5206,'5206','112th St Sw & Evergreen Way - Wb',47.896523,-122.250496
 5210,'5210','Evergreen Way & 112th St Sw - Sb',47.895325,-122.253098
-5212,'5212','112th St Sw & 16th Ave W - Wb',47.896523,-122.255211
 5213,'5213','112th St Sw & 17th Ct Sw - Eb',47.89637,-122.255844
 5215,'5215','100th St Sw & Evergreen Way - Wb',47.907379,-122.243103
-5216,'5216','112th St Sw & Paine Field Way - Wb',47.896523,-122.258713
 5217,'5217','112th St Sw & Airport Rd - Eb',47.896416,-122.262329
 5220,'5220','100th St Sw & Holly Dr - Wb',47.907379,-122.247772
 5225,'5225','100th St Sw & 12th Ave W - Wb',47.907379,-122.25032
@@ -490,11 +401,7 @@
 5235,'5235','100th St Sw & 18th Ave W - Wb',47.907475,-122.257668
 5240,'5240','100th St Sw & 23rd Ave W - Wb',47.907562,-122.266144
 5245,'5245','100th St Sw & Airport Rd - Wb',47.907578,-122.269051
-5265,'5265','Airport Rd & 112th St Sw - Sb',47.896099,-122.263481
-5281,'5281','112th St Se & 4th Ave W - Wb',47.896572,-122.239685
-5283,'5283','112th St Sw & 8th Ave W - Wb',47.896545,-122.24511
 5288,'5288','Airport Rd & Evergreen Way - Nb',47.890163,-122.258759
-5300,'5300','Evergreen Ctr & 112th St Sw - Nb',47.894665,-122.256813
 5310,'5310','Evergreen Way & 116th - Sb',47.89278,-122.255669
 6000,'6000','7th Ave Se & 84th St Se - Sb',47.921455,-122.223
 6005,'6005','7th Ave Se & 84th St Se - Nb',47.921528,-122.222855
@@ -519,6 +426,7 @@
 6140,'6140','19th Ave Se & 102nd St Se - Sb',47.904549,-122.207115
 6145,'6145','19th Ave Se & 106th Pl Se - Sb',47.900162,-122.207016
 6150,'6150','19th Ave Se & 110th St Se - Sb',47.898426,-122.206932
+6155,'6155','112th St Se & 19th Ave Se - Wb',47.89711,-122.209023
 6160,'6160','112th St Se & Silver Lk Rd - Wb',47.896694,-122.214783
 6165,'6165','112th St Se & 10th Ave Se - Wb',47.89653,-122.21888
 6170,'6170','7th Ave Se & 112th St Se - Nb',47.897129,-122.222969
@@ -541,15 +449,8 @@
 6245,'6245','Sw Everett Mall Way & 4th Ave W - Eb',47.905766,-122.237236
 6247,'6247','19th Ave Se & 116th St Se - Sb',47.892578,-122.204277
 6265,'6265','Evergreen Way & Sw Everett Mall Way - Nb',47.904903,-122.243767
-6268,'6268','3rd Ave Se & Se Everett Mall Way - Sb',47.907265,-122.228302
 6270,'6270','Evergreen Way & 100th St Sw - Nb',47.906986,-122.241806
-6272,'6272','3rd Ave Se & 102nd St Se - Sb',47.904507,-122.228233
-6273,'6273','3rd Ave Se & 102nd St Se - Nb',47.904522,-122.228111
-6275,'6275','3rd Ave Se & 106th St Se - Nb',47.901787,-122.228035
-6276,'6276','3rd Ave Se & 108th St Se - Sb',47.900429,-122.228119
 6277,'6277','Evergreen Way & 4th Ave W - Nb',47.909409,-122.239571
-6278,'6278','3rd Ave Se & 109th Pl Se - Sb',47.898369,-122.228111
-6279,'6279','3rd Ave Se & 112th St Sw - Nb',47.897064,-122.228004
 6282,'6282','4th Ave W & 116th Pl Sw - Nb',47.891907,-122.238731
 6284,'6284','4th Ave W & 120th St Sw - Nb',47.889709,-122.238716
 6288,'6288','4th Ave W & 124th St Sw - Nb',47.886097,-122.238693
@@ -567,6 +468,7 @@
 6331,'6331','South Everett Freeway Sta - Bay 1',47.89957,-122.214195
 6332,'6332','South Everett Freeway Sta - Bay 4',47.899593,-122.214027
 6335,'6335','112th St Se & Silver Lk Rd - Eb',47.896542,-122.213867
+6337,'6337','112th St Se & 16th Ave Se - Eb',47.896893,-122.209831
 6340,'6340','Silver Lk Rd & Silver Lk Beach - Sb',47.894531,-122.214882
 6343,'6343','Silver Lk Rd & Silver Lk Beach - Nb',47.894566,-122.214729
 6345,'6345','Silver Lk Rd & 116th St Se - Sb',47.892216,-122.216179
@@ -588,6 +490,30 @@
 6420,'6420','19th Ave Se & Lk Hts Dr - Nb',47.891258,-122.205536
 6425,'6425','19th Ave Se & 121st St Se - Nb',47.888027,-122.20652
 6430,'6430','121st St Se & 19th Ave Se - Wb',47.88773,-122.207459
+7000,'7000','W Marine Vw Dr & 10th - Sb',48.004379,-122.214363
+7005,'7005','W Marine Vw Dr & 10th - Nb',48.004162,-122.21402
+7010,'7010','W Marine Vw Dr & 4th - Sb',48.012032,-122.211311
+7015,'7015','W Marine Vw Dr & 4th - Nb',48.013069,-122.209938
+7020,'7020','W Marine Vw Dr & Alverson Blvd - Eb',48.017769,-122.202011
+7025,'7025','100th St Sw & 29th Ave W - Wb',47.907719,-122.273933
+7030,'7030','Paine Field Airport Terminal - Eb',47.908218,-122.277496
+7040,'7040','100th St Sw & Airport Rd - Eb',47.907478,-122.2686
+7045,'7045','100th St Sw & 23rd Ave W - Eb',47.907478,-122.263939
+7050,'7050','100th St Sw & Dakota Way - Eb',47.90741,-122.257301
+7055,'7055','100th St Sw & 12th Ave W - Eb',47.907318,-122.249489
+7060,'7060','112th St Se & 3rd Ave Se - Eb',47.896488,-122.227081
+7065,'7065','4th Ave W & 112th St Sw - Sb',47.89555,-122.239052
+7070,'7070','4th Ave W & 116th St Sw - Sb',47.891769,-122.239082
+7075,'7075','4th Ave W & 120th St Sw - Sb',47.88879,-122.239014
+7080,'7080','4th Ave W & 124th St Sw - Sb',47.886929,-122.239082
+7085,'7085','Madison St & Lower Rdg Rd - Wb',47.936581,-122.231491
+7090,'7090','Madison St & Lower Rdg Rd - Eb',47.936451,-122.232033
+7095,'7095','Glennwood Ave & Kenwood Dr - Nb',47.940208,-122.238167
+7100,'7100','Glennwood Ave & Sievers Duecy Rd - Sb',47.938381,-122.23597
+7105,'7105','E Casino Rd & Evergreen Way - Wb',47.922031,-122.226761
+7110,'7110','Broadway & 12th St - Nb',48.001659,-122.200989
+7115,'7115','Broadway & 10th St - Nb',48.004238,-122.199188
+7120,'7120','W Marine Vw Dr & Alverson - Wb',48.01778,-122.202621
 7375,'7375','84th St Sw & 44th Ave W - Wb',47.922153,-122.293472
 7380,'7380','84th St Sw & 44th Ave W - Eb',47.922016,-122.292786
 9967,'9967','Broadway & California - Nb',47.980885,-122.201393
