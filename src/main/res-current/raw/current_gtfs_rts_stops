@@ -110,7 +110,7 @@
 2110,'2110','15th St & Walnut St - Wb',47.997555,-122.189758
 2115,'2115','Walnut St & 15th St - Sb',47.997681,-122.189201
 2120,'2120','Walnut St & 15th St - Nb',47.997738,-122.189072
-2125,'2125','Walnut St & 17th St - Nb',47.995056,-122.189148
+2125,'2125','Walnut St & 17th St - Nb',47.994825,-122.189137
 2130,'2130','Walnut St & 17th St - Sb',47.99469,-122.189278
 2135,'2135','Broadway & 18th St - Nb',47.99408,-122.201088
 2145,'2145','Walnut St & 19th St - Nb',47.992592,-122.189209
@@ -126,7 +126,7 @@
 2195,'2195','23rd St & Summit Ave - Eb',47.986904,-122.183952
 2205,'2205','Harrison Ave & 24th St - Nb',47.98571,-122.182358
 2210,'2210','Harrison Ave & 25th St - Sb',47.984386,-122.182503
-2215,'2215','Harrison Ave & 26th St - Nb',47.982048,-122.182434
+2215,'2215','Harrison Ave & 26th St - Nb',47.983138,-122.182404
 2225,'2225','Walnut St & 24th St - Nb',47.985867,-122.189377
 2230,'2230','Walnut St & 24th St - Sb',47.985771,-122.189522
 2235,'2235','Walnut St & 26th St - Nb',47.983223,-122.18943
@@ -255,11 +255,11 @@
 3447,'3447','Merrill Crk Pkwy & 23rd Dr W - Wb',47.94112,-122.264244
 3450,'3450','Merrill Crk Pkwy & 23rd Dr W - Eb',47.940987,-122.263748
 3455,'3455','Merrill Crk Pkwy & 64th St - Eb',47.939468,-122.267662
-3457,'3457','Merrill Crk Pkwy & Seaway Blvd - Sb',47.938816,-122.267845
+3457,'3457','Merrill Crk Pkwy & Seaway Blvd - Sb',47.937529,-122.267964
 3473,'3473','75th St Sw & Seaway Blvd - Eb',47.930801,-122.26001
 3475,'3475','Merrill Crk Pkwy & Seaway Blvd - Nb',47.937729,-122.267685
 3480,'3480','Seaway Blvd & 24th Ave W - Wb',47.937157,-122.265282
-3483,'3483','Seaway Blvd & Merrill Crk Pkwy - Sb',47.93697,-122.264427
+3483,'3483','Seaway Blvd & Merrill Crk Pkwy - Sb',47.936899,-122.264482
 3484,'3484','Hardeson Rd & Veralene Way - Nb',47.929424,-122.24678
 3485,'3485','Seaway Blvd & Fluke Dr - Nb',47.935009,-122.261711
 3486,'3486','Seaway Blvd & Fluke Dr - Sb',47.934326,-122.261436
