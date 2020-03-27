@@ -33,7 +33,7 @@
 1290,'1290','Wetmore Ave & Everett Ave - Sb',47.981304,-122.207245
 1295,'1295','Wetmore Ave & Everett Ave - Nb',47.9813,-122.207146
 1305,'1305','Everett Ave & Oakes Ave - Eb',47.981819,-122.203979
-1310,'1310','Everett Ave & Lombard Ave - Wb',47.981979,-122.202644
+1310,'1310','Everett Ave & Lombard Ave - Wb',47.981976,-122.202637
 1315,'1315','Broadway & 25th St - Sb',47.984127,-122.201599
 1318,'1318','Broadway & 14th St - Sb',47.998665,-122.201241
 1328,'1328','N Broadway & Tower St - Sb',48.006229,-122.19706
@@ -110,7 +110,7 @@
 2110,'2110','15th St & Walnut St - Wb',47.997555,-122.189758
 2115,'2115','Walnut St & 15th St - Sb',47.997681,-122.189201
 2120,'2120','Walnut St & 15th St - Nb',47.997738,-122.189072
-2125,'2125','Walnut St & 17th St - Nb',47.994825,-122.189137
+2125,'2125','Walnut St & 17th St - Nb',47.994835,-122.189125
 2130,'2130','Walnut St & 17th St - Sb',47.99469,-122.189278
 2135,'2135','Broadway & 18th St - Nb',47.99408,-122.201088
 2145,'2145','Walnut St & 19th St - Nb',47.992592,-122.189209
@@ -126,13 +126,13 @@
 2195,'2195','23rd St & Summit Ave - Eb',47.986904,-122.183952
 2205,'2205','Harrison Ave & 24th St - Nb',47.98571,-122.182358
 2210,'2210','Harrison Ave & 25th St - Sb',47.984386,-122.182503
-2215,'2215','Harrison Ave & 26th St - Nb',47.983138,-122.182404
+2215,'2215','Harrison Ave & 26th St - Nb',47.983135,-122.182419
 2225,'2225','Walnut St & 24th St - Nb',47.985867,-122.189377
 2230,'2230','Walnut St & 24th St - Sb',47.985771,-122.189522
 2235,'2235','Walnut St & 26th St - Nb',47.983223,-122.18943
 2240,'2240','Broadway & 26th St - Nb',47.983028,-122.20137
 2245,'2245','Everett Ave & Broadway - Eb',47.981815,-122.200935
-2260,'2260','Everett Ave & Rainier Ave - Wb',47.98193,-122.197594
+2260,'2260','Everett Ave & Rainier Ave - Wb',47.98193,-122.199341
 2270,'2270','Everett Ave & Baker Ave - Eb',47.98175,-122.196037
 2275,'2275','Everett Ave & Cedar St - Wb',47.981907,-122.194191
 2280,'2280','Everett Ave & Cedar - Eb',47.981735,-122.192856
@@ -205,9 +205,9 @@
 3170,'3170','W Mukilteo Blvd & Ocean Ave - Eb',47.953461,-122.275299
 3175,'3175','W Mukilteo Blvd & 33rd Ave W - Wb',47.953148,-122.277458
 3180,'3180','W Mukilteo Blvd & 33rd Ave W - Eb',47.953037,-122.27755
-3181,'3181','Seaway Transit Ctr - Bay 5 - Eb',47.929859,-122.259979
-3182,'3182','Seaway Transit Ctr - Bay 4 - Eb',47.929916,-122.259476
 3185,'3185','W Mukilteo Blvd & Sound Ave - Eb',47.952595,-122.28009
+3188,'3188','Seaway Transit Ctr - Bay 8 - Sb',47.930264,-122.259926
+3189,'3189','Seaway Transit Ctr - Bay 9 - Sb',47.930038,-122.259682
 3190,'3190','W Mukilteo Blvd & Sound Ave - Wb',47.952549,-122.2808
 3195,'3195','W Mukilteo Blvd & Upland Ave - Eb',47.952129,-122.282753
 3200,'3200','W Mukilteo Blvd & Upland Ave - Wb',47.952145,-122.283127
@@ -255,11 +255,11 @@
 3447,'3447','Merrill Crk Pkwy & 23rd Dr W - Wb',47.94112,-122.264244
 3450,'3450','Merrill Crk Pkwy & 23rd Dr W - Eb',47.940987,-122.263748
 3455,'3455','Merrill Crk Pkwy & 64th St - Eb',47.939468,-122.267662
-3457,'3457','Merrill Crk Pkwy & Seaway Blvd - Sb',47.937529,-122.267964
+3457,'3457','Merrill Crk Pkwy & Seaway Blvd - Sb',47.937763,-122.267934
 3473,'3473','75th St Sw & Seaway Blvd - Eb',47.930801,-122.26001
 3475,'3475','Merrill Crk Pkwy & Seaway Blvd - Nb',47.937729,-122.267685
 3480,'3480','Seaway Blvd & 24th Ave W - Wb',47.937157,-122.265282
-3483,'3483','Seaway Blvd & Merrill Crk Pkwy - Sb',47.936899,-122.264482
+3483,'3483','Seaway Blvd & Merrill Crk Pkwy - Sb',47.93689,-122.264473
 3484,'3484','Hardeson Rd & Veralene Way - Nb',47.929424,-122.24678
 3485,'3485','Seaway Blvd & Fluke Dr - Nb',47.935009,-122.261711
 3486,'3486','Seaway Blvd & Fluke Dr - Sb',47.934326,-122.261436
