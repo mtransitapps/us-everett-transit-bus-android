@@ -102,7 +102,7 @@
 2145,'2145','Walnut St & 19th St NB',47.992592,-122.189209
 2150,'2150','Walnut St & 19th St SB',47.991959,-122.189354
 2155,'2155','Walnut St & Leonard Dr SB',47.99028,-122.189392
-2160,'2160','Walnut St & 22nd St NB',47.988228,-122.189308
+2160,'2160','Walnut St & 21st St NB',47.989864,-122.189248
 2165,'2165','Walnut St & 23rd St SB',47.987243,-122.189515
 2170,'2170','Broadway & 21st St NB',47.990322,-122.201172
 2175,'2175','Broadway & 23rd St NB',47.987354,-122.201263
@@ -142,7 +142,6 @@
 2450,'2450','Everett Sta I1',47.973289,-122.197113
 2466,'2466','Wetmore Ave & Wall St NB',47.977322,-122.207115
 2484,'2484','Airport Rd & W Casino Rd SB',47.920246,-122.271919
-2502,'2502','Eastmont P&R B:3 WB',47.915356,-122.205177
 2668,'2668','Airport Rd & 94th St Sw SB',47.913704,-122.271858
 2886,'2886','Broadway & Wall St SB',47.977619,-122.201675
 2887,'2887','Broadway & Pacific Ave NB',47.97715,-122.201393
@@ -293,13 +292,7 @@
 4120,'4120','Beverly Blvd & Madison NB',47.936768,-122.210182
 4130,'4130','Beverly Blvd & Madison SB',47.935989,-122.21106
 4143,'4143','Beverly Blvd & 72nd St Se NB',47.932911,-122.212456
-4151,'4151','Ridgewood Dr & Timber Hl Dr SB',47.927994,-122.198441
-4154,'4154','Larlin Dr & Panaview Blvd NB',47.927521,-122.193184
 4155,'4155','Beverly Blvd & 72nd St Se SB',47.933014,-122.212624
-4156,'4156','Sunrise Dr & Panaview Blvd NB',47.92823,-122.194763
-4157,'4157','Panaview Blvd & Larlin Dr SB',47.926163,-122.197319
-4158,'4158','75th St Se & Mcdougall Ave WB',47.930107,-122.1996
-4159,'4159','75th St Se & Mcdougall Ave EB',47.93005,-122.199753
 4161,'4161','Broadway & 74th St Se SB',47.930912,-122.202408
 4162,'4162','Broadway & 75th St Se NB',47.930458,-122.202538
 4164,'4164','Broadway & 73rd St Se NB',47.932434,-122.201485
