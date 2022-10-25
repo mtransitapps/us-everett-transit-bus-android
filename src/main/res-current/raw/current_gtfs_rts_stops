@@ -31,12 +31,13 @@
 1367,'1367','Evergreen Way & 79th Pl Se SB',47.925571,-122.224854
 1370,'1370','Wetmore Ave & Hewitt Ave SB',47.979561,-122.207298
 1373,'1373','Wall St & Grand Ave WB',47.977814,-122.213516
+1375,'1375','Wetmore Ave & Hewitt Ave SB',47.979561,-122.207298
 1378,'1378','Wall St & Grand Ave EB',47.977741,-122.213089
 1380,'1380','Hewitt Ave & Hoyt Ave WB',47.979393,-122.209755
 1383,'1383','Wall St & Hoyt Ave WB',47.977894,-122.209503
 1385,'1385','Hewitt Ave & Hoyt Ave EB',47.979237,-122.210258
 1388,'1388','Wall St & Colby Ave EB',47.977848,-122.20919
-1395,'1395','Pacific Ave & Nassau St WB',47.97649,-122.216141
+1390,'1390','Pacific Ave & Nassau St WB',47.97649,-122.216141
 1410,'1410','Rucker Ave & Pacific Ave SB',47.976086,-122.21151
 1425,'1425','Colby Ave & Pacific Ave SB',47.976284,-122.208664
 1450,'1450','Lombard Ave & Pacific Ave NB',47.977207,-122.202904
@@ -150,7 +151,7 @@
 3090,'3090','W Mukilteo Blvd & Glenhaven Dr EB',47.957287,-122.239967
 3095,'3095','W Mukilteo Blvd & Seahurst Ave EB',47.958958,-122.242836
 3100,'3100','W Mukilteo Blvd & Seahurst Ave WB',47.959324,-122.243011
-3105,'3105','W Mukilteo Blvd & Glenwood Ave EB',47.95715,-122.247177
+3110,'3110','W Mukilteo Blvd & Glenwood Ave EB',47.95715,-122.247177
 3115,'3115','W Mukilteo Blvd & Greely St EB',47.956776,-122.251381
 3120,'3120','W Mukilteo Blvd & Dover WB',47.957092,-122.252243
 3125,'3125','W Mukilteo Blvd & Harbor Ln EB',47.957184,-122.255829
@@ -312,7 +313,7 @@
 4260,'4260','E Casino Rd & Xavier Way EB',47.925068,-122.216927
 4270,'4270','E Casino Rd & 8th Ave Se WB',47.923267,-122.221207
 4280,'4280','E Casino Rd & 8th Ave Se EB',47.923031,-122.22142
-5000,'5000','W Casino Rd & Airport Rd EB',47.920021,-122.269264
+5005,'5005','W Casino Rd & Airport Rd EB',47.920021,-122.269264
 5007,'5007','Airport Rd & Kasch Pk Rd NB',47.917892,-122.271492
 5011,'5011','Airport Rd & 94th St Sw NB',47.913815,-122.271484
 5015,'5015','W Casino Rd & 23rd Ave W WB',47.920109,-122.265091
@@ -470,7 +471,3 @@
 7125,'7125','Hardeson Rd & 75th St Sw SB',47.92926,-122.246773
 9967,'9967','Broadway & California NB',47.980885,-122.201393
 9973,'9973','Broadway & California SB',47.981003,-122.201614
-13703,'13703','Wetmore Ave & Hewitt Ave SB',47.979561,-122.207298
-22453,'22453','Everett Ave & Broadway EB',47.981815,-122.200935
-22603,'22603','Everett Ave & Rainier Ave WB',47.98193,-122.199341
-36803,'36803','75th St Sw & Seaway Blvd WB',47.930992,-122.260078
