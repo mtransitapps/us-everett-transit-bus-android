@@ -1,10 +1,10 @@
-2,'2','S To Mariner P&R - N To Mall Station','000000',49,3
-3,'3','S To Seaway TC - N To Everett Station','000000',50,3
-4,'4','S To Everett Station - N To College Station','000000',51,3
-6,'6','N To Waterfront - S To Everett Station','000000',1575,3
-7,'7','S To Mall Station - N To College Station','000000',52,3
-8,'8','S To Airport Rd - N To Everett Station','000000',53,3
-12,'12','W To Seaway TC - E To Mall Station','000000',54,3
-18,'18','W To Mukilteo - E To Everett Station','000000',55,3
-19,'19','S To Everett Station - N To College Station','000000',55514,3
-29,'29','N To College Station - S To Mall Station','000000',56,3
+2,'2','S To Mariner P&R - N To Mall Station','452506',49,3
+3,'3','S To Seaway TC - N To Everett Station','e4cd38',50,3
+4,'4','S To Everett Station - N To College Station','e5afeb',51,3
+6,'6','N To Waterfront - S To Everett Station','4080ee',1575,3
+7,'7','S To Mall Station - N To College Station','dd1d1d',52,3
+8,'8','S To Airport Rd - N To Everett Station','bd0fdc',53,3
+12,'12','W To Seaway TC - E To Mall Station','2a6a33',54,3
+18,'18','W To Mukilteo - E To Everett Station','70eaea',55,3
+19,'19','S To Everett Station - N To College Station','eab185',55514,3
+29,'29','N To College Station - S To Mall Station','50cf9a',56,3
