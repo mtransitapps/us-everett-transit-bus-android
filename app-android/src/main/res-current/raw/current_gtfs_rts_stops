@@ -159,7 +159,7 @@
 2345,'2345','Smith Ave & 36th St SB',47.96968,-122.19703,2,51665
 2355,'2355','Wetmore Ave & Wall St SB',47.97732,-122.20723,2,1664
 2356,'2356','Pacific Ave & Rockefeller Ave WB',47.97667,-122.20554,2,48694
-2359,'2359','Pacific Ave & Rockefeller Ave EB',47.97655,-122.20487,2,48692
+2359,'2359','Pacific Ave & Rockefeller Ave EB',47.97655,-122.20486,2,48692
 2364,'2364','Broadway & 38th St NB',47.96775,-122.20097,2,49809
 2365,'2365','Broadway & 33rd St NB',47.97384,-122.20131,2,49811
 2366,'2366','Broadway & 38th St SB',47.96716,-122.20123,2,49835
@@ -357,7 +357,7 @@
 5100,'5100','W Casino Rd & 2nd Ave W EB',47.92178,-122.23647,2,49749
 5105,'5105','W Casino Rd & 2nd Ave W WB',47.92195,-122.23610,2,50549
 5110,'5110','E Casino Rd & Meridian Ave WB',47.92201,-122.23325,2,50548
-5115,'5115','E Casino Rd & Evergreen Way EB',47.92185,-122.23052,2,49750
+5115,'5115','E Casino Rd & Evergreen Way EB',47.92185,-122.23051,2,49750
 5120,'5120','E Casino Rd & Evergreen Way WB',47.92201,-122.22885,2,50547
 5125,'5125','Evergreen Way & E Casino Rd SB',47.92100,-122.22910,2,49652
 5130,'5130','Evergreen Way & Casino Rd NB',47.92140,-122.22830,2,48785
